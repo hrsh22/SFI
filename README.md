@@ -1,4 +1,4 @@
-# Made for Solve For India Hackathon
+# Made for Solving For India Hackathon
 
 <!-- PROJECT LOGO -->
 <br />
